@@ -18,7 +18,8 @@ Rubik Vault es una aplicación simple creada por Michael100 que te permite descu
 
 ![Seleccion](https://github.com/Michael-Esquivel/Rubik-Vault/assets/121065455/18a44b9c-3096-4c29-a200-0bb08e2cdf59)
 
-![image](https://github.com/Michael-Esquivel/Rubik-Vault/assets/121065455/027327fe-95c4-4e2d-ba28-6cdf6d452604)
+![coleccion](https://github.com/Michael-Esquivel/Rubik-Vault/assets/121065455/89bc2ddf-1391-402b-bbf9-aa1243f215e3)
+
 
 
 ## Instalación
